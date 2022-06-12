@@ -1,6 +1,6 @@
 {
-  "name": "项目名称",
-  "description": "项目名称",
+  "name": "hsrdt",
+  "description": "hsrdt",
   "keywords": [
     "VMess VLESS"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/项目名称",
-  "repository": "https://github.com/用户名/项目名称",
+  "website": "https://github.com/ptret/hsrdt",
+  "repository": "https://github.com/ptret/hsrdt",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
